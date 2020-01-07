@@ -1,5 +1,5 @@
 # soprasperia
-Sopra Steria Backend test
+Sopra Steria test
 
 1. git clone https://github.com/staminna/ss-backend/
 2. cd into the cloned repository directory
