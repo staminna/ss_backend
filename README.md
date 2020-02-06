@@ -1,4 +1,4 @@
-# soprasperia
+# soprasteria
 Sopra Steria test
 
 1. git clone https://github.com/staminna/ss_backend/
